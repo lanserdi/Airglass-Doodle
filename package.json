@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/lanserdi/Airglass-Doodle/issues"
   },
-  "homepage": "https://github.com/lanserdi/Airglass-Doodle#readme"
+  "homepage": "https://github.com/lanserdi/Airglass-Doodle#readme",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-uglify": "^4.0.0"
+  }
 }
